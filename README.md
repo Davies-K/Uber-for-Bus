@@ -6,5 +6,8 @@ This is a bus monitoring application which will have add-on features like ticket
 
 
 
+![alt text](https://github.com/Davies-K/Uber-for-Bus/blob/master/screenshots/home.JPG)
 
 ![alt text](https://github.com/Davies123/Uber-for-Bus/blob/master/Routing%20page.PNG)
+
+
